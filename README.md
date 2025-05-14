@@ -23,6 +23,9 @@ python Number Guessing Game.py
 * bash
 Copy
 Edit
-Number-Guessing-Game/
-├── Number Guessing Game.py   # Main Python script
-├── README.md                 # Project documentation
+* Number-Guessing-Game/
+*├── Number Guessing Game.py   # Main Python script
+*├── README.md                 # Project documentation
+
+# 🧰 Prerequisites
+* Python 3.x installed on your system.
