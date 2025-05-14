@@ -18,3 +18,11 @@ python Number Guessing Game.py
 * Enter your guesses when prompted.
 
 * Keep guessing until you get the right number and enjoy the victory message!
+
+# 📂 Project Structure
+* bash
+Copy
+Edit
+Number-Guessing-Game/
+├── Number Guessing Game.py   # Main Python script
+├── README.md                 # Project documentation
