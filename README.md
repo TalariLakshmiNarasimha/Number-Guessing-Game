@@ -6,3 +6,15 @@ A fun and interactive Python game where the computer picks a random number, and 
 * User-Friendly Hints: Provides feedback like "Too high" or "Too low" for each guess.
 
 * Attempts Tracker: Displays the total number of guesses taken to find the correct number.
+# 🎮 How to Play
+* Make sure Python is installed on your system.
+
+* Clone this repository or download the script file.
+
+* Open a terminal and run the game using:
+
+* bash Copy Edit
+python Number Guessing Game.py
+* Enter your guesses when prompted.
+
+* Keep guessing until you get the right number and enjoy the victory message!
